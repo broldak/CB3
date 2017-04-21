@@ -1,6 +1,6 @@
 # CB3
 
-https://travis-ci.org/broldak/CB3.svg?branch=master
+[![Build Status](https://travis-ci.org/broldak/CB3.svg?branch=master)](https://travis-ci.org/broldak/CB3)
 
 New CB site based on rails.
 
