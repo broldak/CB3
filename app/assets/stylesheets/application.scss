@@ -1,0 +1,26 @@
+// Base imports
+@import "variables";
+@import "reset";
+
+// UI component imports
+@import "nav";
+
+// Base styles
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: $text-color;
+  text-decoration: none;
+
+  &.inverse {
+    color: $inverse-text-color;
+  }
+}
+
+#app {
+  padding: 24px;
+}
